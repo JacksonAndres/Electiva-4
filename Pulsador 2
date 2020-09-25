@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T02:12:05.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.5" etag="GSu1wLbQ150ODlX66aIo" type="github"><diagram id="DL4U51yi6Z5ZkH0gkHBU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-25T02:39:48.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="buPWQASu2vUYtQI3ECA6" version="13.7.5" type="github">
+  <diagram id="DL4U51yi6Z5ZkH0gkHBU" name="Page-1">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-1" target="Vf3rBi6-YErb7XANyjGv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-1" target="Vf3rBi6-YErb7XANyjGv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-1" value="Setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-2" target="Vf3rBi6-YErb7XANyjGv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-2" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="330" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-3" value="Acomodar 2 leds y 1 pulsador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="215" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-6" target="Vf3rBi6-YErb7XANyjGv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-6" target="Vf3rBi6-YErb7XANyjGv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-6" value="Pulsador sin presionar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-8" target="Vf3rBi6-YErb7XANyjGv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-8" value="Encender led 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="432.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-10" value="Led 2 apagado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="432.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-12" target="Vf3rBi6-YErb7XANyjGv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-12" target="Vf3rBi6-YErb7XANyjGv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-12" value="Presionar pulsador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vf3rBi6-YErb7XANyjGv-14" target="Vf3rBi6-YErb7XANyjGv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-14" value="Led 1 apagado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf3rBi6-YErb7XANyjGv-15" value="Encender led 2&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="540" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
